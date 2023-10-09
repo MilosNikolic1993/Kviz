@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="score_text" type="id" />
+    <item name="grade_text" type="id" />
+    <item name="question_text" type="id" />
+    <item name="option1_radio" type="id" />
+    <item name="option2_radio" type="id" />
+    <item name="option3_radio" type="id" />
+    <item name="next_button" type="id" />
+    <item name="options_radio_group" type="id" />
+</resources>

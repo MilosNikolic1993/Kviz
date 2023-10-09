@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Kviz aplikacija</string>
+
+    <string name="question_1">Koja je najveca planina na svetu?</string>
+    <string name="question_2">Ko je autor romana \"Rat i mir\"?</string>
+    <string name="question_3">Ko je naslikao Mona Lizu?</string>
+    <string name="question_4">Koliko ima svetskih okeana?</string>
+    <string name="question_5">Ko je pronalazac teleskopa?</string>
+
+    <string-array name="questions">
+        <item>@string/question_1</item>
+        <item>@string/question_2</item>
+        <item>@string/question_3</item>
+        <item>@string/question_4</item>
+        <item>@string/question_5</item>
+    </string-array>
+
+    <string name="option_1_1">Mont Everest</string>
+    <string name="option_1_2">Kilimandzaro</string>
+    <string name="option_1_3">Himalaji</string>
+
+    <string name="option_2_1">Fjodor Dostojevski</string>
+    <string name="option_2_2">Leo Tolstoj</string>
+    <string name="option_2_3">Vladimir Nabokov</string>
+
+    <string name="option_3_1">Leonardo da Vinci</string>
+    <string name="option_3_2">Vincent van Gogh</string>
+    <string name="option_3_3">Pablo Picasso</string>
+
+    <string name="option_4_1">3</string>
+    <string name="option_4_2">4</string>
+    <string name="option_4_3">5</string>
+
+    <string name="option_5_1">Galileo Galilej</string>
+    <string name="option_5_2">Isak Njutn</string>
+    <string name="option_5_3">Nikola Tesla</string>
+
+    <string-array name="options">
+        <item>@string/option_1_1</item>
+        <item>@string/option_1_2</item>
+        <item>@string/option_1_3</item>
+        <item>@string/option_2_1</item>
+        <item>@string/option_2_2</item>
+        <item>@string/option_2_3</item>
+        <item>@string/option_3_1</item>
+        <item>@string/option_3_2</item>
+        <item>@string/option_3_3</item>
+        <item>@string/option_4_1</item>
+        <item>@string/option_4_2</item>
+        <item>@string/option_4_3</item>
+        <item>@string/option_5_1</item>
+        <item>@string/option_5_2</item>
+        <item>@string/option_5_3</item>
+    </string-array>
+
+    <integer-array name="answers">
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+        <item>0</item>
+    </integer-array>
+
+    <string name="timer_text">Preostalo vreme: %1$d s</string>
+
+    <string name="play_button">Igraj kviz</string>
+    <string name="exit_button">Izađi iz kviza</string>
+
+    <string name="score_text">Rezultat: %1$d/%2$d</string>
+    <string name="grade_text">Ocena: %s</string>
+</resources>
